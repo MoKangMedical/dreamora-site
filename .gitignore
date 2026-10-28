@@ -1,0 +1,9 @@
+dist/
+验收/
+.DS_Store
+历史版本/
+制作素材/
+交付说明.md
+研究来源核验.md
+素材来源与公开边界.md
+scripts/render-ultrasound*.py
