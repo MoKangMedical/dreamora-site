@@ -16,3 +16,5 @@ html{scroll-padding-top:100px}.site-header{position:sticky;top:0;z-index:35;back
 /* Matched product-and-service artwork for both editions. */
 .model-picture{aspect-ratio:1.5;background:#edf0f6}.model-picture img{object-fit:contain}.model-picture span{font-size:9px;padding-top:22px}@media(max-width:600px){.model-picture{aspect-ratio:1.5}.model-picture span{font-size:8px}}
 .product-image-note{font-size:10px;color:#85899b!important;margin:24px 0 0;line-height:1.7}
+
+.research-contact{margin-bottom:28px;padding-bottom:24px;border-bottom:1px solid #38383c}.research-contact p{margin-bottom:12px}.research-contact>a{display:inline-block;font-size:clamp(14px,1.4vw,20px);overflow-wrap:anywhere;color:#b9c3ff}.research-contact>a:hover{text-decoration:underline}
