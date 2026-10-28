@@ -30,3 +30,7 @@ The research section links to the original papers. The trial-outcome chart was i
 ## Deployment
 
 The GitHub Actions workflow builds and deploys dist/ to GitHub Pages. Repository Settings → Pages → Source should be GitHub Actions. Public deployment status is determined by the workflow and the live URL, not a local build.
+
+## Scientific evidence update · 2026-10-28
+
+The Science section now includes an observation-first adult validation pathway (PSG-confirmed REM, voluntary eye signaling, waking report; respiration as supporting physiology), source-linked memory-editing and closed-loop research, null findings, a review framework, and a downloadable 20-study Chinese evidence register. The register contains 19 published original studies and one explicitly labeled preprint; it is a targeted review, not an exhaustive systematic review. External findings do not validate Dreamora's own efficacy, pediatric use or long-term safety. X-Sleep Lab is cited as a research source without implying collaboration or endorsement. No paper figures or full-text files are redistributed.
