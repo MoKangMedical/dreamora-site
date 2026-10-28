@@ -18,12 +18,12 @@ export const content = {
       "play": "播放动效"
     },
     "hero": {
-      "eyebrow": "超声核心 · 梦境体验研发",
+      "eyebrow": "低强度超声核心 · 清醒梦境体验",
       "heading": [
         "主动建立",
         "梦境。"
       ],
-      "body": "以主动建立梦境为研发目标：从自主选择主题、构建个人世界，到探索睡眠中的主题影响与醒后重建。超声核心连接 AI、神经反馈与多感官体验。",
+      "body": "以低强度超声头带为核心，围绕前额叶相关活动的调节，探索梦中的觉察、清晰感知与自主选择。",
       "primary": "探索三个体验方向",
       "secondary": "了解共同平台",
       "figure": "FIG. 01 — 梦境星球 / 概念设计",
@@ -86,7 +86,7 @@ export const content = {
         "超声为核心。",
         "体验彼此连接。"
       ],
-      "body": "超声刺激模块是共同研发核心。AI 内容、神经反馈与视觉听觉围绕这一平台组织；状态调节与内容引导分别验证。",
+      "body": "Dreamora 的技术路线以低强度超声与前额叶相关活动调节为核心。状态感知与独立控制围绕超声核心组织，AI 与声光内容支持主题选择及醒后回顾。清醒梦诱导与睡眠保护仍须由产品研究分别验证。",
       "imageAlt": "成人、概念头带、床头设备与软件界面的产品愿景图片。",
       "imageNote": "人物、硬件与界面均为概念设计；未接入人体刺激，非已实现闭环。",
       "components": [
@@ -193,12 +193,12 @@ export const content = {
       "play": "Play animation"
     },
     "hero": {
-      "eyebrow": "ULTRASOUND-CENTERED DREAM EXPERIENCE RESEARCH",
+      "eyebrow": "LOW-INTENSITY ULTRASOUND · LUCID DREAM EXPERIENCE",
       "heading": [
         "Create your",
         "dream world."
       ],
-      "body": "Our research goal is active dream creation: choose a theme, build a personal world, and explore sleep-related theme influence and waking reconstruction. Ultrasound, AI, neural feedback and multisensory content form the research platform.",
+      "body": "Low-intensity ultrasound headwear at the core. Exploring prefrontal modulation, awareness, clarity and agency within dreams.",
       "primary": "EXPLORE THREE EXPERIENCES",
       "secondary": "DISCOVER THE PLATFORM",
       "figure": "FIG. 01 — DREAMORA / CONCEPT DESIGN",
@@ -261,7 +261,7 @@ export const content = {
         "Ultrasound at the core.",
         "Experiences connected."
       ],
-      "body": "An ultrasound stimulation module is the shared research core. AI content, neural feedback and audiovisual experiences are organized around it. State modulation and content guidance require separate validation.",
+      "body": "Dreamora’s technical approach centers on low-intensity ultrasound and the study of prefrontal modulation. State sensing and independent control surround the ultrasound core; AI and audiovisual content support theme selection and waking reflection. Lucid-dream induction and sleep protection require separate product validation.",
       "imageAlt": "Product vision image showing an adult, a concept headband, a bedside device and a software interface.",
       "imageNote": "People, hardware and interfaces illustrate concepts. No human stimulation is connected, and this is not an implemented closed-loop system.",
       "components": [
