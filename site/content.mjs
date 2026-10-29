@@ -18,16 +18,16 @@ export const content = {
       "play": "播放动效"
     },
     "hero": {
-      "eyebrow": "低强度超声核心 · 清醒梦境体验",
+      "eyebrow": "梦前创建 · 梦中探索 · 梦后延展",
       "heading": [
         "主动建立",
         "梦境。"
       ],
-      "body": "以低强度超声头带为核心，围绕前额叶相关活动的调节，探索梦中的觉察、清晰感知与自主选择。",
+      "body": "如果梦境，也能拥有你的创作？梦前，用故事、角色与声景，为梦埋下线索；梦中，探索觉察、互动与自主选择；梦后，将记得的片段化作可视化场景，继续编织你的世界。Dremuvo 以低强度超声头带为核心，连接梦境主题引导、互动内容渲染与醒后创作，打造梦前、梦中、梦后的三维体验。",
       "primary": "探索三个体验方向",
       "secondary": "了解共同平台",
       "figure": "FIG. 01 — Dremuvo / 概念设计",
-      "stage": "探索梦境体验的未来",
+      "stage": "主题引导与清醒梦效果待验证 · 渲染源于醒后描述",
       "note": "生成图片为设计愿景，不是产品实拍、真实梦境影像或已验证效果。"
     },
     "vision": {
@@ -193,16 +193,16 @@ export const content = {
       "play": "Play animation"
     },
     "hero": {
-      "eyebrow": "LOW-INTENSITY ULTRASOUND · LUCID DREAM EXPERIENCE",
+      "eyebrow": "BEFORE SLEEP · WITHIN DREAMS · BEYOND WAKING",
       "heading": [
         "Create your",
         "dream world."
       ],
-      "body": "Low-intensity ultrasound headwear at the core. Exploring prefrontal modulation, awareness, clarity and agency within dreams.",
+      "body": "What if your imagination could help shape a dream? Before sleep, plant a seed with stories, characters and soundscapes. Within dreams, explore awareness, interaction and choice. After waking, turn remembered fragments into visual scenes and keep building your world. With low-intensity ultrasound headwear at its core, Dremuvo brings dream-theme guidance, interactive content rendering and waking creativity into one three-part experience.",
       "primary": "EXPLORE THREE EXPERIENCES",
       "secondary": "DISCOVER THE PLATFORM",
       "figure": "FIG. 01 — DREMUVO / CONCEPT DESIGN",
-      "stage": "EXPLORE THE FUTURE OF DREAM EXPERIENCES",
+      "stage": "THEME GUIDANCE & LUCIDITY REQUIRE VALIDATION · VISUALS USE WAKING ACCOUNTS",
       "note": "Generated images illustrate a design vision. They are not product photographs, recordings of dreams or evidence of effectiveness."
     },
     "vision": {
