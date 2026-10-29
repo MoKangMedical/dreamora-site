@@ -36,46 +36,46 @@ export const content = {
         "让好奇心，",
         "继续向内探索。"
       ],
-      "body": "从一个故事、一场思想交流，到一个辽阔的世界。三个体验方向，共享一个以超声为核心的研发平台。",
+      "body": "从一个故事、一场思想交流，到一个辽阔的世界。三个梦境主题，共享一个以超声为核心的研发平台，以睡前内容准备、睡眠状态研究与醒后回顾连接体验。",
       "note": "平台效果、安全性与适用范围尚待分别验证。"
     },
     "experiences": {
       "eyebrow": "01 — 体验方向",
       "heading": [
-        "三个世界。",
+        "三个梦中世界。",
         "同一份好奇。"
       ],
-      "body": "从清醒态的内容体验出发，探索未来睡眠交互的可能。以下均为产品设计愿景。",
+      "body": "让好奇心在睡梦中延续。睡前选择学堂、会客厅或宇宙主题，以故事、对话与声景准备梦境线索，探索这些线索如何进入个人梦境；醒来后记录与回顾。三种体验均以梦中探索为方向，主题能否进入梦境及清醒梦诱导效果仍需验证。",
       "cards": [
         {
           "id": "learning",
           "number": "01",
           "name": "梦境学堂",
           "english": "DREAM LEARNING",
-          "tagline": "把一个问题，变成一段探索。",
-          "body": "用故事、互动内容与 AI 陪伴，连接好奇心、想象和清醒态学习。睡眠相关的学习保持与迁移收益，须独立验证。",
-          "boundary": "不代表梦中知识写入；儿童不在超声或夜间干预范围。",
-          "alt": "梦境学堂概念图片：清醒态使用者、互动内容与未来体验设备。"
+          "tagline": "把一个问题，带进梦中的学堂。",
+          "body": "睡前围绕一个问题准备故事与想象线索，梦境学堂将梦中探索作为体验方向；醒后回顾梦里的场景与灵感，连接白天的好奇。",
+          "boundary": "梦境主题引导不等于知识写入，也不承诺睡眠学习收益；仅面向成人研究。",
+          "alt": "熟睡成年人佩戴概念头带，梦中浮现图书馆、天文模型与探索场景的艺术表达。"
         },
         {
           "id": "meeting",
           "number": "02",
           "name": "全息会客厅",
           "english": "HOLOGRAPHIC MEETING",
-          "tagline": "为思想，留一张座位。",
-          "body": "以 AI 人物模拟与知识内容，构想跨越时空的观点交流。从清醒态对话开始，研究未来受限睡眠交互的可能。",
-          "boundary": "人物为数字模拟，不是真人意识或已实现的梦中会面。",
-          "alt": "全息会客厅概念图片：成人与 AI 人物模拟进行清醒态交流。"
+          "tagline": "让一场思想交流，在梦中展开。",
+          "body": "睡前选择话题与虚构数字人物，准备对话线索；全息会客厅描绘梦中的思想交流空间，醒后整理个人记忆与新的视角。",
+          "boundary": "梦中人物来自个人体验与想象；不代表真人意识接入、共享梦境或保证会面。",
+          "alt": "熟睡成年人佩戴概念头带，梦中自我与虚构学者在云上会客厅交流的艺术表达。"
         },
         {
           "id": "universe",
           "number": "03",
           "name": "沉浸式宇宙",
           "english": "IMMERSIVE UNIVERSE",
-          "tagline": "从此刻，走向更辽阔的世界。",
-          "body": "以生成场景、空间声景与自愿记录，构想可持续积累的个人探索素材，从深海到遥远星系。",
-          "boundary": "内容素材的持续积累，不等于已验证的跨夜梦境控制。",
-          "alt": "沉浸式宇宙概念图片：成人、未来体验设备和宇宙场景艺术表达。"
+          "tagline": "在睡梦中，走向更辽阔的世界。",
+          "body": "睡前选择深海、浮岛或星系等世界主题，以场景与声景引导想象；沉浸式宇宙描绘睡梦中的自由探索，醒后将记得的片段留入个人世界素材库。",
+          "boundary": "场景是梦境主题愿景，不是梦境录像；不承诺指定内容或跨夜连续控制。",
+          "alt": "熟睡成年人佩戴概念头带，梦中自我探索发光海洋、浮岛和遥远星系的艺术表达。"
         }
       ],
       "imageNote": "DREMUVO / 研发可视化"
@@ -211,46 +211,46 @@ export const content = {
         "Give curiosity",
         "room to explore within."
       ],
-      "body": "A story. An exchange of ideas. A world beyond the familiar. Three experience directions share one ultrasound-centered research platform.",
+      "body": "A story. An exchange of ideas. A world beyond the familiar. Three dream themes share one ultrasound-centered research platform, connecting pre-sleep preparation, sleep-state research and waking reflection.",
       "note": "Effectiveness, safety and suitability require separate validation."
     },
     "experiences": {
       "eyebrow": "01 — EXPERIENCES",
       "heading": [
-        "Three worlds.",
+        "Three dream worlds.",
         "One curiosity."
       ],
-      "body": "Starting with waking content experiences, we explore the possibilities of future sleep interaction. All three directions are design visions.",
+      "body": "Let curiosity continue into sleep. Before bed, choose a learning, meeting or universe theme; stories, dialogue and soundscapes prepare cues for exploring how themes may enter personal dreams. Record and reflect after waking. All three envision exploration within dreams; theme incorporation and lucid-dream induction still require validation.",
       "cards": [
         {
           "id": "learning",
           "number": "01",
           "name": "Dream Learning",
           "english": "THE CURIOSITY WITHIN",
-          "tagline": "Turn a question into an exploration.",
-          "body": "Stories, interactive content and AI companionship connect curiosity, imagination and waking learning. Any sleep-related benefits for retention or transfer require independent evaluation.",
-          "boundary": "This does not mean writing knowledge into dreams. Children are outside the scope of ultrasound or nighttime intervention.",
-          "alt": "Dream Learning concept image showing an awake user, interactive content and a future experience device."
+          "tagline": "Bring a question into a dream classroom.",
+          "body": "Prepare stories and imaginative cues around a question before sleep. Dream Learning envisions exploration within dreams, followed by waking reflection on remembered scenes and ideas.",
+          "boundary": "Theme guidance does not write knowledge into the brain or promise sleep-learning benefits. Adult research only.",
+          "alt": "Artistic concept of a sleeping adult wearing a headband beneath a dream library and astronomical models."
         },
         {
           "id": "meeting",
           "number": "02",
           "name": "Holographic Meeting",
           "english": "A SPACE FOR IDEAS",
-          "tagline": "Make room for another perspective.",
-          "body": "AI character simulations and knowledge-based content create a vision for conversations across time. We begin with waking dialogue while investigating the possibility of limited future sleep interaction.",
-          "boundary": "Characters are digital simulations, not a real person’s consciousness or an established meeting within a dream.",
-          "alt": "Holographic Meeting concept image of an adult in a waking conversation with an AI character simulation."
+          "tagline": "Let a conversation unfold within a dream.",
+          "body": "Choose a topic and fictional digital character before bed to prepare dialogue cues. Holographic Meeting envisions a dream space for exchanging ideas, followed by reflection on personal recollections after waking.",
+          "boundary": "Dream characters reflect personal experience and imagination; this does not establish access to real consciousness, shared dreams or guaranteed encounters.",
+          "alt": "Artistic concept of a sleeping adult beneath a dream self conversing with a fictional scholar in a cloud salon."
         },
         {
           "id": "universe",
           "number": "03",
           "name": "Immersive Universe",
           "english": "BEYOND THE HORIZON",
-          "tagline": "Explore beyond the world in front of you.",
-          "body": "Generated environments, spatial soundscapes and voluntary reflection could build a growing collection of personal exploration material, from the deep ocean to distant galaxies.",
-          "boundary": "A growing collection of content does not establish control over a continuous dream world across nights.",
-          "alt": "Immersive Universe concept image showing an adult, a future experience device and an artistic cosmic environment."
+          "tagline": "Explore wider worlds while asleep.",
+          "body": "Choose an ocean, floating island or galaxy theme before bed, using environments and soundscapes to guide imagination. Immersive Universe envisions exploration within sleep; remembered fragments become material for a personal world library.",
+          "boundary": "These scenes express dream themes, not recorded dreams. Specific content and continuity across nights are not guaranteed.",
+          "alt": "Artistic concept of a sleeping adult beneath a dream self exploring a luminous ocean, floating islands and distant planets."
         }
       ],
       "imageNote": "DREMUVO / RESEARCH VISUALIZATION"
