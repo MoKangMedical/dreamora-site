@@ -1,10 +1,10 @@
 export const content = {
   "zh": {
     "lang": "zh-CN",
-    "title": "梦境星球 Dreamora — 主动建立梦境的研发平台",
-    "description": "梦境星球 Dreamora：以超声核心连接 AI、神经反馈与多感官内容，探索主动建立梦境。",
+    "title": "Dremuvo — 主动建立梦境的研发平台",
+    "description": "Dremuvo：以超声核心连接 AI、神经反馈与多感官内容，探索主动建立梦境。",
     "skip": "跳至正文",
-    "home": "梦境星球首页",
+    "home": "Dremuvo首页",
     "navLabel": "主导航",
     "languageLabel": "切换至英文",
     "nav": {
@@ -26,7 +26,7 @@ export const content = {
       "body": "以低强度超声头带为核心，围绕前额叶相关活动的调节，探索梦中的觉察、清晰感知与自主选择。",
       "primary": "探索三个体验方向",
       "secondary": "了解共同平台",
-      "figure": "FIG. 01 — 梦境星球 / 概念设计",
+      "figure": "FIG. 01 — Dremuvo / 概念设计",
       "stage": "探索梦境体验的未来",
       "note": "生成图片为设计愿景，不是产品实拍、真实梦境影像或已验证效果。"
     },
@@ -78,7 +78,7 @@ export const content = {
           "alt": "沉浸式宇宙概念图片：成人、未来体验设备和宇宙场景艺术表达。"
         }
       ],
-      "imageNote": "DREAMORA / 研发可视化"
+      "imageNote": "DREMUVO / 研发可视化"
     },
     "platform": {
       "eyebrow": "02 — 共同平台",
@@ -86,7 +86,7 @@ export const content = {
         "超声为核心。",
         "体验彼此连接。"
       ],
-      "body": "Dreamora 的技术路线以低强度超声与前额叶相关活动调节为核心。状态感知与独立控制围绕超声核心组织，AI 与声光内容支持主题选择及醒后回顾。清醒梦诱导与睡眠保护仍须由产品研究分别验证。",
+      "body": "Dremuvo 的技术路线以低强度超声与前额叶相关活动调节为核心。状态感知与独立控制围绕超声核心组织，AI 与声光内容支持主题选择及醒后回顾。清醒梦诱导与睡眠保护仍须由产品研究分别验证。",
       "imageAlt": "成人、概念头带、床头设备与软件界面的产品愿景图片。",
       "imageNote": "人物、硬件与界面均为概念设计；未接入人体刺激，非已实现闭环。",
       "components": [
@@ -130,7 +130,7 @@ export const content = {
     },
     "faq": {
       "eyebrow": "04 — 常见问题",
-      "heading": "关于梦境星球。",
+      "heading": "关于Dremuvo。",
       "items": [
         {
           "q": "现在可以体验或购买吗？",
@@ -170,16 +170,16 @@ export const content = {
       "tagline": "向内探索，保持清醒。",
       "legal": "产品研发中，尚未开放销售。本站展示不构成医疗建议或功效承诺。",
       "imageDisclosure": "本站人物、硬件及场景图片为原创生成概念视觉，非真实产品、梦境记录或临床证据。",
-      "copyright": "© 2026 DREAMORA PROJECT",
+      "copyright": "© 2026 DREMUVO PROJECT",
       "privacy": "阶段与隐私说明"
     }
   },
   "en": {
     "lang": "en",
-    "title": "Dreamora — Research toward actively creating dream worlds",
-    "description": "Dreamora explores active dream creation through ultrasound, AI, neural feedback and multisensory content.",
+    "title": "Dremuvo — Research toward actively creating dream worlds",
+    "description": "Dremuvo explores active dream creation through ultrasound, AI, neural feedback and multisensory content.",
     "skip": "Skip to content",
-    "home": "Dreamora home",
+    "home": "Dremuvo home",
     "navLabel": "Main navigation",
     "languageLabel": "Switch to Chinese",
     "nav": {
@@ -201,7 +201,7 @@ export const content = {
       "body": "Low-intensity ultrasound headwear at the core. Exploring prefrontal modulation, awareness, clarity and agency within dreams.",
       "primary": "EXPLORE THREE EXPERIENCES",
       "secondary": "DISCOVER THE PLATFORM",
-      "figure": "FIG. 01 — DREAMORA / CONCEPT DESIGN",
+      "figure": "FIG. 01 — DREMUVO / CONCEPT DESIGN",
       "stage": "EXPLORE THE FUTURE OF DREAM EXPERIENCES",
       "note": "Generated images illustrate a design vision. They are not product photographs, recordings of dreams or evidence of effectiveness."
     },
@@ -253,7 +253,7 @@ export const content = {
           "alt": "Immersive Universe concept image showing an adult, a future experience device and an artistic cosmic environment."
         }
       ],
-      "imageNote": "DREAMORA / RESEARCH VISUALIZATION"
+      "imageNote": "DREMUVO / RESEARCH VISUALIZATION"
     },
     "platform": {
       "eyebrow": "02 — SHARED PLATFORM",
@@ -261,7 +261,7 @@ export const content = {
         "Ultrasound at the core.",
         "Experiences connected."
       ],
-      "body": "Dreamora’s technical approach centers on low-intensity ultrasound and the study of prefrontal modulation. State sensing and independent control surround the ultrasound core; AI and audiovisual content support theme selection and waking reflection. Lucid-dream induction and sleep protection require separate product validation.",
+      "body": "Dremuvo’s technical approach centers on low-intensity ultrasound and the study of prefrontal modulation. State sensing and independent control surround the ultrasound core; AI and audiovisual content support theme selection and waking reflection. Lucid-dream induction and sleep protection require separate product validation.",
       "imageAlt": "Product vision image showing an adult, a concept headband, a bedside device and a software interface.",
       "imageNote": "People, hardware and interfaces illustrate concepts. No human stimulation is connected, and this is not an implemented closed-loop system.",
       "components": [
@@ -305,7 +305,7 @@ export const content = {
     },
     "faq": {
       "eyebrow": "04 — FAQ",
-      "heading": "About Dreamora.",
+      "heading": "About Dremuvo.",
       "items": [
         {
           "q": "Can I try or buy it now?",
@@ -345,7 +345,7 @@ export const content = {
       "tagline": "Explore within. Stay clear-eyed.",
       "legal": "In development; not available for sale. This website does not provide medical advice or promise effectiveness.",
       "imageDisclosure": "People, hardware and environments on this site are original generated concept visuals, not actual products, dream recordings or clinical evidence.",
-      "copyright": "© 2026 DREAMORA PROJECT",
+      "copyright": "© 2026 DREMUVO PROJECT",
       "privacy": "Stage & privacy information"
     }
   }

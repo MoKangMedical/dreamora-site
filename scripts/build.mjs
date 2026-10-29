@@ -16,7 +16,7 @@ for(const lang of ['zh','en']){
  const c=content[lang],body=render(c,lang);
  for(const id of ['experiences','platform','research','mechanism','faq'])if(!body.includes(`id="${id}"`))throw Error(`Missing ${id}`);
  for(const asset of ['hero','learning','meeting','universe'])await stat(new URL(`site/assets/${asset}.webp`,root));
- const html=template.replace('href="./style.css"',`href="./style.css?v=${version}"`).replace('src="./app.js"',`src="./app.js?v=${version}"`).replace('<!--APP-->',body).replace('<html lang="zh-CN">',`<html lang="${c.lang}">`).replace('<title>梦境星球 Dreamora</title>',`<title>${c.title}</title>`);
+ const html=template.replace('href="./style.css"',`href="./style.css?v=${version}"`).replace('src="./app.js"',`src="./app.js?v=${version}"`).replace('<!--APP-->',body).replace('<html lang="zh-CN">',`<html lang="${c.lang}">`).replace('<title>Dremuvo</title>',`<title>${c.title}</title>`);
  if(lang==='zh')await writeFile(new URL('dist/index.html',root),html);
 }
 console.log('Built bilingual static site → dist (Chinese prerender + complete English switch).');
