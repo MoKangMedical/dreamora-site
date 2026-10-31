@@ -3,7 +3,7 @@ import {cp,mkdir,rm,readFile,writeFile,stat} from 'node:fs/promises';
 import {content} from '../site/content.mjs';
 import {render} from '../site/render.mjs';
 const root=new URL('../',import.meta.url);
-const version=createHash('sha256').update((await Promise.all(['app.js','render.mjs','content.mjs','interactive.mjs','references.mjs','principle.mjs','products.mjs','dream-theory.mjs','style.css'].map(name=>readFile(new URL('site/'+name,root),'utf8')))).join('')).digest('hex').slice(0,12);
+const version=createHash('sha256').update((await Promise.all(['app.js','render.mjs','content.mjs','interactive.mjs','references.mjs','principle.mjs','products.mjs','dream-theory.mjs','blueprint.mjs','style.css'].map(name=>readFile(new URL('site/'+name,root),'utf8')))).join('')).digest('hex').slice(0,12);
 const template=await readFile(new URL('site/index.html',root),'utf8');
 await rm(new URL('dist',root),{recursive:true,force:true});
 await mkdir(new URL('dist',root),{recursive:true});
@@ -21,4 +21,4 @@ for(const lang of ['zh','en']){
 }
 console.log('Built bilingual static site → dist (Chinese prerender + complete English switch).');
 
-for(const name of ['app.js','render.mjs','interactive.mjs','references.mjs','principle.mjs','products.mjs','dream-theory.mjs']){const url=new URL('dist/'+name,root);const js=await readFile(url,'utf8');await writeFile(url,js.replace(/from '(\.\/[^']+\.(?:mjs|js))'/g,(_,p)=>`from '${p}?v=${version}'`));}
+for(const name of ['app.js','render.mjs','interactive.mjs','references.mjs','principle.mjs','products.mjs','dream-theory.mjs','blueprint.mjs']){const url=new URL('dist/'+name,root);const js=await readFile(url,'utf8');await writeFile(url,js.replace(/from '(\.\/[^']+\.(?:mjs|js))'/g,(_,p)=>`from '${p}?v=${version}'`));}
